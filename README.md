@@ -15,3 +15,6 @@ Aplicação Streaming com Python e Spark para raspagem e contagem de palavras
     
 - Spark
     spark-submit --py-files src/count_word.py src/spark_app.py
+    
+# Video
+- https://www.youtube.com/watch?v=9BXPMESDYDU&ab_channel=Oz%C3%A9iasGodoy
